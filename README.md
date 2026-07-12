@@ -15,6 +15,7 @@ Servo 3 → Digital Pin 11
 Servo 4 → Digital Pin 12
 VCC → 5V
 GND → GND
+
 How It Works
 
 When the simulation starts, all four servo motors move together in a sweep motion for 2 seconds. After 2 seconds, the Arduino moves all servo motors to 90°, where they remain fixed.
